@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">POCForPushNotification</string>
+    <string name="msg_token_fmt">Firebase Messaging Token.</string>
+</resources>
